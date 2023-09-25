@@ -1,6 +1,6 @@
 [submodule "ModbusTCP2MQTT"]
 	path = ModbusTCP2MQTT
-	url = https://github.com/MatterVN/ModbusTCP2MQTT
+	url = git@github.com:bennetschubert/ModbusTCP2MQTT.git
 [submodule "TTLock2MQTT"]
 	path = TTLock2MQTT
 	url = https://github.com/MatterVN/TTLock2MQTT
